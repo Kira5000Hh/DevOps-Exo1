@@ -24,7 +24,7 @@
 </ul>
  
 <h2>Historique du projet</h2>
-<h2>Conflit</h2>	
+<h2>Conflit</h2>
 <p>Cette section évoluera au fil des commits.</p>
  
 </body>
