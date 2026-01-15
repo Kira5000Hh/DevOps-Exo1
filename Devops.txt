@@ -14,7 +14,7 @@
  
 <h2>Participants</h2>
 <ul>
-    <li>Arnoud Antoine-</li>
+    <li>Arnoud Antoine</li>
 </ul>
  
 <h2>Règles de collaboration</h2>
